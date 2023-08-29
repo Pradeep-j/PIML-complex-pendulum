@@ -1,2 +1,2 @@
-# PIML-complex-pendulum
-A python implementation that produces a useable model for identifying the dynamics of a mechanical system using deep learning methods. 
+# Physics informed machine learning of the dynamics of a complex pendulum
+This repository contains a python implementation of a machine learning approach to learn the dynamics of a complex pendulum. The intention behind this work is to provide an intelligent means to process data collected from real dynamic systems which are tedious to model analytically, and create machine learning models to represent the dynamics of the system. 
